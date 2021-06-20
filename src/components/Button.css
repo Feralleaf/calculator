@@ -1,0 +1,20 @@
+.btn-wrapper {
+	background-color: limegreen;
+	color: darkgreen;
+	border: solid whitesmoke;
+	border-radius: 15px;
+	padding: 10px;
+	margin: 5px;
+	height: 3.5rem;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+	font-size: 25px;
+	flex: 1;
+}
+
+.row {
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+}
